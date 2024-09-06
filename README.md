@@ -1,66 +1,51 @@
-## Threads App Clone with Jetpack Compose and Firebase
-
-Welcome to the Threads app clone project, a comprehensive Android application built using Jetpack Compose and Firebase. This project aims to replicate the core functionalities of a social media app, allowing users to create threads, follow other users, view profiles, and interact in real time.
-
-### Features:
-
-- **User Authentication**: Seamless registration and login flow with Firebase authentication.
-- **Thread Creation and Viewing**: Ability to create new threads and view existing ones.
-- **Following/Followers System**: Users can connect with each other through the following/followers functionality.
-- **User Profiles**: Engaging user profiles displaying relevant information and user-generated content.
-- **Real-time Updates**: Utilizing Firebase to achieve real-time updates for threads, followers, and other crucial components.
-
-### Screenshots:
-
-![Login Screen](screenshots/login_screen.png)
-*Login Screen: Users can register or log in to access the Threads app.*
-
-![Home Screen](screenshots/home_screen.png)
-*Home Screen: Users can view and interact with threads in real time.*
-
-![Profile Screen](screenshots/profile_screen.png)
-*Profile Screen: Users can view their own profile information and user-generated content.*
-
-### Installation:
-
-1. Clone this repository to your local machine using `git clone`.
-2. Open the project in Android Studio.
-3. Ensure you have the required dependencies installed and configured.
-4. Connect the project to Firebase by following the Firebase setup instructions.
-5. Build and run the project on your Android device or emulator.
-
-### Dependencies:
-
-- Android Studio
-- Kotlin
-- Jetpack Compose
-- Firebase (Authentication, Realtime Database, Firestore)
-
-### Getting Started:
-
-1. Familiarize yourself with the project structure and key components.
-2. Explore the codebase to understand the implementation details.
-3. Refer to documentation and tutorials for Jetpack Compose and Firebase integration.
-4. Customize and extend the project to suit your requirements.
-
-### Project Structure:
-
-- `app`: Contains the main application code.
-  - `src`: Source files for activities, fragments, and UI components.
-- `firebase`: Firebase configuration and setup files.
-- `res`: Resources including layouts, drawables, and values.
-
-### Contributing:
-
-Contributions are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, feel free to submit a pull request.
-
-### Credits:
-
-This project is inspired by the Threads app and is developed by [Dev Gupta]. Special thanks to the contributors and the open-source community for their support.
 
 
-### Contact:
+# 🚀 Threads App Clone: Built with Jetpack Compose and Firebase
 
-For any inquiries or feedback, please contact [devguptamsi@gmail.com].
+Welcome to the Threads app clone project, a comprehensive Android application built using Jetpack Compose and Firebase. This project replicates the core functionalities of a social media app, allowing users to create threads, follow other users, view profiles, and interact in real-time.
 
-Enjoy exploring and contributing to the Threads app clone project! 🚀
+<br />
+
+***Try the latest Threads App clone apk below 👇***
+
+[![Threads App Clone](https://github.com/devgupta4526/ThreadsAppClone/assets/78317104/0c414bde-1291-4ab6-8aae-793ee8194be1)](https://github.com/devgupta4526/ThreadsAppClone)
+
+<br />
+
+## 🎨 UI Design
+
+Here are the key screens showcasing the app's UI design:
+
+|   Login Screen    | Home Screen    |   Profile Screen   
+|---	|---	|---
+|  ![Login Screen](https://github.com/user-attachments/assets/f1930359-93e7-429f-82ed-3cc4b3d7b72d)    |  ![Home Screen](https://github.com/user-attachments/assets/b470b2cb-fd51-47a2-b2ef-7c73fa2f1d8d)   |   ![Profile Screen](https://github.com/user-attachments/assets/e33480cf-f08a-42dd-a71a-66aac2fe8995)
+
+|   Thread Creation    | View Threads    |   Real-Time Updates   
+|---	|---	|---
+|  ![Thread Creation](https://github.com/user-attachments/assets/8806e144-5cf6-4d4f-9ac1-51ad166594c3)    |  ![View Threads](https://github.com/user-attachments/assets/a14507e9-f988-4aae-85fb-d0380ac966cc)   |   ![Real-Time Updates](https://github.com/user-attachments/assets/610b1cd5-7400-4742-a49a-facf4f350f94)
+
+<br />
+
+## 🛠 Built With
+
+Here's the list of technologies used:
+
+- **Kotlin**
+- **Jetpack Compose**
+- **Firebase (Authentication, Realtime Database, Firestore)**
+
+<br />
+
+## 🗼 Architecture
+
+The app follows the ***MVVM (Model View View-Model) & Clean Architecture*** pattern to ensure scalable and maintainable code.
+
+<br />
+
+## 📩 Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **Twitter**: [@DevGupta4526](https://x.com/DevGupta4526)
+- **Instagram**: [@underdroid_maven](https://www.instagram.com/underdroid_maven/)
+- **Email**: [devguptamsi@gmail.com](mailto:devguptamsi@gmail.com)
